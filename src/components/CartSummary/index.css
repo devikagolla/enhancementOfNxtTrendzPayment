@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.summary-heading {
+  color: #616e7c;
+  font-size: 18px;
+}
+.para {
+  color: #616e7c;
+}
+.button {
+  background-color: #0b69ff;
+  color: #616e7c;
+  text-align: center;
+}
+.amount {
+  color: #171f46;
+}
+.amount-container {
+  height: 30vh;
+  width: 40vw;
+  display: flex;
+  align-items: end;
+}
